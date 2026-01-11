@@ -1,4 +1,4 @@
-# KRK — Local LLM-Driven Movie Recommendation Engine (TMDb)
+# KRK - Local LLM-Driven Movie Recommendation Engine (TMDb)
 
 KRK is a **local-first, deterministic movie recommendation system** that converts **natural language preferences** into **structured TMDb discovery queries**.
 
