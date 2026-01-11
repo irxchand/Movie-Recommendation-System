@@ -1,0 +1,196 @@
+Amitabh Bachchan,5281
+Shah Rukh Khan,35742
+Salman Khan,35743
+Aamir Khan,35741
+Akshay Kumar,5001
+Hrithik Roshan,19268
+Ranbir Kapoor,85034
+Ranveer Singh,121013
+Ajay Devgn,20694
+Saif Ali Khan,85036
+Anil Kapoor,85230
+Sunny Deol,85035
+Bobby Deol,85033
+Vicky Kaushal,1471868
+Rajkummar Rao,1226797
+Ayushmann Khurrana,1201871
+Shahid Kapoor,85037
+Varun Dhawan,1373847
+Tiger Shroff,1520840
+Sanjay Dutt,35745
+Irrfan Khan,35744
+Nawazuddin Siddiqui,115914
+Pankaj Tripathi,1425906
+Manoj Bajpayee,35746
+R Madhavan,116154
+Arjun Kapoor,1373848
+Sidharth Malhotra,1373850
+Kartik Aaryan,1482547
+Aditya Roy Kapur,1373849
+Emraan Hashmi,35747
+John Abraham,85038
+Abhishek Bachchan,5282
+Farhan Akhtar,85039
+Riteish Deshmukh,85040
+Tusshar Kapoor,85041
+Suniel Shetty,85042
+Arshad Warsi,85043
+Paresh Rawal,35748
+Anupam Kher,35749
+Jackie Shroff,85044
+Dharmendra,35750
+Jeetendra,35751
+Shatrughan Sinha,35752
+Rajesh Khanna,35753
+Dev Anand,35754
+Kamal Haasan,93147
+Vijay Sethupathi,1373861
+Dhanush,1373860
+Allu Arjun,1373858
+Deepika Padukone,557791
+Priyanka Chopra Jonas,119066
+Kareena Kapoor Khan,35755
+Alia Bhatt,1373862
+Katrina Kaif,85045
+Anushka Sharma,85046
+Aishwarya Rai Bachchan,35756
+Madhuri Dixit,35757
+Kajol,35758
+Rani Mukerji,35759
+Vidya Balan,35760
+Kangana Ranaut,85047
+Taapsee Pannu,1397776
+Kriti Sanon,1373863
+Shraddha Kapoor,1373864
+Sonam Kapoor,1373865
+Jacqueline Fernandez,1373866
+Bhumi Pednekar,1482548
+Yami Gautam,1373867
+Kiara Advani,1482549
+Disha Patani,1517573
+Nushrratt Bharuccha,1373868
+Sara Ali Khan,1517574
+Janhvi Kapoor,1517575
+Ananya Panday,1517576
+Rashmika Mandanna,1517577
+Samantha Ruth Prabhu,93148
+Nayanthara,93149
+Trisha Krishnan,93150
+Tamannaah Bhatia,93151
+Huma Qureshi,1373869
+Richa Chadha,1373870
+Sanya Malhotra,1517578
+Fatima Sana Shaikh,1373871
+Mrunal Thakur,1517579
+Ileana D'Cruz,85048
+Preity Zinta,35761
+Juhi Chawla,35762
+Sonali Bendre,35763
+Urmila Matondkar,35764
+Bipasha Basu,85049
+Malaika Arora,85050
+Chitrangada Singh,1373872
+Tabu,35765
+Neena Gupta,35766
+Shilpa Shetty,85051
+Karisma Kapoor,35767
+Pooja Hegde,1517580
+Rakul Preet Singh,1517581
+Leonardo DiCaprio,6193
+Brad Pitt,287
+Tom Cruise,500
+Johnny Depp,85
+Robert Downey Jr.,3223
+Christian Bale,3894
+Matt Damon,1892
+Keanu Reeves,6384
+Will Smith,2888
+Hugh Jackman,6968
+Denzel Washington,5292
+Ryan Gosling,30614
+Chris Hemsworth,74568
+Chris Evans,16828
+Mark Ruffalo,103
+Benedict Cumberbatch,71580
+Joaquin Phoenix,73421
+Jake Gyllenhaal,131
+Adam Driver,1023139
+Tom Hardy,2524
+Al Pacino,1158
+Robert De Niro,380
+Morgan Freeman,192
+Samuel L. Jackson,2231
+Harrison Ford,3
+Daniel Day-Lewis,11856
+Russell Crowe,934
+Andrew Garfield,37625
+Timothée Chalamet,1190668
+Henry Cavill,73968
+Jason Momoa,117642
+Zac Efron,72129
+Michael Fassbender,1223786
+Chris Pratt,73457
+Paul Rudd,22226
+Ben Affleck,880
+Orlando Bloom,114
+Cillian Murphy,2037
+Ewan McGregor,3061
+Viggo Mortensen,112
+Jude Law,638
+Colin Farrell,524
+Idris Elba,17647
+Mahershala Ali,932967
+Rami Malek,1023138
+Oscar Isaac,25072
+Pedro Pascal,1253360
+Dev Patel,40248
+Hugh Grant,21007
+Scarlett Johansson,1245
+Natalie Portman,524
+Emma Stone,54693
+Jennifer Lawrence,72129
+Anne Hathaway,1813
+Margot Robbie,234352
+Gal Gadot,90633
+Angelina Jolie,11701
+Charlize Theron,6885
+Cate Blanchett,112
+Meryl Streep,5064
+Julia Roberts,1204
+Keira Knightley,116
+Emily Blunt,5081
+Amy Adams,9273
+Zoe Saldaña,8691
+Jessica Chastain,54693
+Emma Watson,10990
+Kristen Stewart,37917
+Dakota Johnson,31265
+Florence Pugh,1373737
+Saoirse Ronan,933238
+Natalie Dormer,1293784
+Rachel McAdams,4941
+Brie Larson,73457
+Lupita Nyong’o,2094242
+Elizabeth Olsen,550843
+Millie Bobby Brown,1165110
+Anya Taylor-Joy,1240417
+Zendaya,505710
+Sandra Bullock,18277
+Reese Witherspoon,368
+Viola Davis,19492
+Nicole Kidman,2226
+Rooney Mara,5081
+Alicia Vikander,9273
+Penélope Cruz,342
+Marion Cotillard,8292
+Salma Hayek,109
+Eva Green,56731
+Winona Ryder,947
+Carey Mulligan,40629
+Halle Berry,4587
+Mila Kunis,18973
+Rachel Weisz,1226
+Naomi Watts,116
+Emily Ratajkowski,1397778
+Blake Lively,59174
+Jennifer Aniston,4491
