@@ -6,7 +6,7 @@ import difflib
 from datetime import datetime
 
 
-TMDB_API_KEY = "7c857cb84bae399fef352d2f25cdb1f6"
+TMDB_API_KEY = # Write your own api key here.
 
 
 MAPPINGS_DIR = r"E:/GP4ALL/Local Docs"
@@ -274,3 +274,4 @@ while True:
     print(f"  LANGUAGE = {LANGUAGE}")
     print(f"  DATE_FROM = {DATE_FROM}")
     print(f"  DATE_TO = {DATE_TO}\n")
+
